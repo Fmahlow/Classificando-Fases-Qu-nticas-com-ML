@@ -9,3 +9,6 @@ O arquivo central que faz toda a análise é o QFT_ML.ipynb. Todos os demais sã
 * Python 3
 * Jupyter Notebook
 * Pacotes: sklearn, pandas, numpy, matplotlib
+
+## Instruções
+Para baixar os arquivos basta clonar o repositório e abrir utilizando o Jupyter Notebook. Desta forma é possível executar os códigos e testar enquanto lê e aprende.
